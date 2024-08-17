@@ -1,0 +1,14 @@
+Experiment ID: 
+Timestamp: 
+Start Time (UTC): 2024-08-14 03:55:37
+End Time (UTC): 2024-08-14 03:55:38
+Duration (seconds): 0
+Training Data Directory: C:\Users\Lenovo\Downloads\se-cloud-2023-2024\Source\MyCloudProjectSample\MyCloudProject\bin\Debug\net8.0\TrainingData
+Testing File: C:\Users\Lenovo\Downloads\se-cloud-2023-2024\Source\MyCloudProjectSample\MyCloudProject\bin\Debug\net8.0\TestingData\testfile3.json
+Accuracy: 100.00%
+Predicted Labels:
+1: S152
+2: S178
+3: S180
+4: S153
+5: S179

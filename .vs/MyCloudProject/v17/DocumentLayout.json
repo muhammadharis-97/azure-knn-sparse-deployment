@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}|MyExperiment\\MyExperiment.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\myexperiment\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}|MyExperiment\\MyExperiment.csproj|solutionrelative:myexperiment\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}|MyCloudProject\\MyCloudProject.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}|MyCloudProject\\MyCloudProject.csproj|solutionrelative:mycloudproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}|MyCloudProject\\MyCloudProject.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}|MyCloudProject\\MyCloudProject.csproj|solutionrelative:mycloudproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}|MyExperiment\\MyExperiment.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\myexperiment\\azurestorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}|MyExperiment\\MyExperiment.csproj|solutionrelative:myexperiment\\azurestorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\istorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\istorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\inithelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\inithelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\iexperimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\iexperimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\iexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\iexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\iclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\iclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|c:\\users\\lenovo\\downloads\\se-cloud-2023-2024\\source\\mycloudprojectsample\\mycloudproject.common\\exerimentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}|MyCloudProject.Common\\MyCloudProject.Common.csproj|solutionrelative:mycloudproject.common\\exerimentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject\\Dockerfile",
+              "RelativeDocumentMoniker": "MyCloudProject\\Dockerfile",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject\\Dockerfile",
+              "RelativeToolTip": "MyCloudProject\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T03:22:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Experiment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyExperiment\\Experiment.cs",
+              "RelativeDocumentMoniker": "MyExperiment\\Experiment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyExperiment\\Experiment.cs",
+              "RelativeToolTip": "MyExperiment\\Experiment.cs",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAmwBACAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:43:44.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzureStorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyExperiment\\AzureStorageProvider.cs",
+              "RelativeDocumentMoniker": "MyExperiment\\AzureStorageProvider.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyExperiment\\AzureStorageProvider.cs",
+              "RelativeToolTip": "MyExperiment\\AzureStorageProvider.cs",
+              "ViewState": "AQIAAAkBAAAAmJmZmZkjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:43:14.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyCloudProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject\\Program.cs",
+              "RelativeToolTip": "MyCloudProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExerimentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\ExerimentRequest.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\ExerimentRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\ExerimentRequest.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\ExerimentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IClassifier.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\IClassifier.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IClassifier.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\IClassifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IExperiment.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\IExperiment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IExperiment.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\IExperiment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:43.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExperimentResult.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IExperimentResult.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\IExperimentResult.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IExperimentResult.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\IExperimentResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:42.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InitHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\InitHelpers.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\InitHelpers.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\InitHelpers.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\InitHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IStorageProvider.cs",
+              "RelativeDocumentMoniker": "MyCloudProject.Common\\IStorageProvider.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\se-cloud-2023-2024\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\IStorageProvider.cs",
+              "RelativeToolTip": "MyCloudProject.Common\\IStorageProvider.cs",
+              "ViewState": "AQIAABMAAAAANDMzMzPjvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:45:21.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

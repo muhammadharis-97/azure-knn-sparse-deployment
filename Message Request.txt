@@ -1,0 +1,18 @@
+{
+   "ExperimentId": "2",
+   "Name": "KNN Classifier",
+   "Description": "KNN Classification based on Sparse Distribution Representation (SDR's) of Multiple Sequence files",
+   "TrainingDataFile": "ALL",
+   "TestingDataFile": "ALL"
+}
+
+{
+   "ExperimentId": "1",
+   "Name": "KNN Classifier",
+   "Description": "KNN Classification based on Sparse Distribution Representation (SDR's) of Multiple Sequence files",
+   "TrainingDataFile": "ALL",
+   "TestingDataFile": "testfile1.json"
+}
+
+
+
